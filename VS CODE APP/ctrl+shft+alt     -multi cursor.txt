@@ -1,0 +1,21 @@
+ctrl+shft+alt     -multi cursor
+
+
+ctrl+space     -- intellisense (list pops out)
+
+
+shift+alt+f    --correct alignment of text
+
+
+ctrl+k and ctrl+f -- to format a single line 
+
+
+alt+z -- for screen fitted view not to slide  horizontally
+
+alt+arrow key - to move up and down
+
+ctrl+j -- terminal display
+
+ctrl+b  - to remove activity bar
+
+ctrl+shft+p --- to display all options
